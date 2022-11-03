@@ -15,6 +15,7 @@ import java.sql.*;
 @WebServlet("/coffee")
 public class CoffeeServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
+	
        
     /**
      * @see HttpServlet#HttpServlet()
